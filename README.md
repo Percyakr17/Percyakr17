@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my Journey here : [https://percyakr17.github.io/myDash/](https://percyakr17.github.io/myDash/)
 
-- 💬 Ask me about **Tech and Technology**
+- 💬 Ask me about : **Tech and Technology**
 
 - 📫 Contact me : **samarth17garg@gmail.com**
 
