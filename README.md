@@ -5,7 +5,7 @@
 
 - 💬 Ask me about : **Tech and Technology**
 
-- 📫 Contact me : **samarth17garg@gmail.com**
+- 📫 Contact me : **akrsam20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
