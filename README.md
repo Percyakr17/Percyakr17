@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Shamrth Garg</h1>
+<h1 align="center">Hi, I am Samarth Garg</h1>
 <h3 align="center">A Passionate Student and a Tech Person, Interested in Programming and Developing Solution</h3>
 
 - 👨‍💻 All of my Journey here : [https://percyakr17.github.io/myDash/](https://percyakr17.github.io/myDash/)
