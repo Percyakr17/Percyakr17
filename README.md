@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my Journey here : [https://percyakr17.github.io/myDash/](https://percyakr17.github.io/myDash/)
 
-- 💬 Ask me about : **Tech and Technology**
+- 💬 Ask me about : **Tech and Technology that innovates**
 
-- 📫 Contact me : **akrsam20@gmail.com**
+- 📫 Contact me : **samarth17garg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
