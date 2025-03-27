@@ -6,6 +6,8 @@
 - 💬 Ask me about : **Tech and Technology that innovates**
 
 - 📫 Contact me : **samarth17garg@gmail.com**
+ 
+- Universal Profile : **0xc86c6b175b3128A33C2f5928F14018Dbf7b4c70e**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
