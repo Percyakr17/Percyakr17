@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Shamrth Garg</h1>
-<h3 align="center">A Passionate Student and a Tech Person, Interested in Programming and Developing Solution</h3>
+<h3 align="center">A Full Stack .NET Developer with Angular and a Passionate Tech Student, Interested in Programming and Developing Solutions </h3>
 
 - 👨‍💻 All of my Journey here : [https://percyakr17.github.io/myDash/](https://percyakr17.github.io/myDash/)
 
@@ -7,7 +7,7 @@
 
 - 📫 Contact me : **samarth17garg@gmail.com**
  
-- Universal Profile : **0xc86c6b175b3128A33C2f5928F14018Dbf7b4c70e**
+- Universal Profile: **0xc86c6b175b3128A33C2f5928F14018Dbf7b4c70e**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
